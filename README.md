@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Aasim Malik Here.
+
+- 🔭 I’m currently working on making my GitHub profile more interesting.
+- 🌱 I’m currently learning Machine learning.
+- 👯 I’m looking to collaborate on an open-source project.
+- 🤔 I’m looking for help with any recommendations for Githib profile improvement.
+- 💬 Ask me about anything in Frontend, and I will be able to help you.
+- 📫 How to reach me: just mail me at malik1997aasim@gmail.com just to connect.
+- 😄 Pronouns: He/Him
+
 <!--
 **AasimMalik97/AasimMalik97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
